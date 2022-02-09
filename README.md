@@ -1,10 +1,11 @@
-# <img align="center" src="./assets/globe.gif" height="45px" /> 你好, digital citizen! Welcome to cyberspace.
+# <img align="center" src="./assets/globe.gif" height="45px" /> 你好, digital citizen! Welcome to cyberspace. <img align="center" src="./assets/computer.gif" height="45px" /> 
 
-I'm a software developer and infrastructure engineer, I like my philosophy UNIX and my programming Functional.
+I'm a software developer and infrastructure engineer, I like my philosophy **UNIX** and my programming **Functional**.
+
 
 --------
 
-## <img align="center" width=50px src="./assets/chat.gif"> My online presence
+## <img align="center" width=50px src="./assets/chat.gif"> My online presence <img align="center" src="./assets/linux.gif" height="50px" />
 
 [![My Blog][blog]](https://mtrsk.github.io)
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/marcos-schonfinkel)
@@ -35,7 +36,7 @@ My favorite text editor:
 * NeoVim (although I'm slowy being converted to Emacs + ORG)
 ```
 
-### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS](https://nixos.org/)!
+### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS](https://nixos.org/)! <img align="center" width=50px src="./assets/wizard.gif"> 
 
 --------
 
