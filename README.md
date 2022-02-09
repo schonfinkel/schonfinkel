@@ -13,6 +13,7 @@ I'm a software developer and infrastructure engineer, I like my philosophy UNIX 
      style="margin-top:20px;"
      height="315px"
      align="left" />
+
 ```org
 What I've been doing so far:
 
@@ -32,8 +33,6 @@ My favorite text editor:
 
 * NeoVim (although I'm slowy being converted to Emacs + ORG)
 ```
-<br/>
-<br/>
 
 #### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS]()!
 
