@@ -35,7 +35,7 @@ My favorite text editor:
 * NeoVim (although I'm slowy being converted to Emacs + ORG)
 ```
 
-### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS]()!
+### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS](https://nixos.org/)!
 
 --------
 
