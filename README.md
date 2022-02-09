@@ -1,11 +1,10 @@
-# <img align="center" src="./assets/globe.gif" height="45px" /> 你好, digital citizen! Welcome to cyberspace. <img align="center" src="./assets/computer.gif" height="45px" /> 
+# <img align="center" src="./assets/globe.gif" height="45px" /> 你好, digital citizen! Welcome to Cyberspace. <img align="center" src="./assets/computer.gif" height="45px" /> 
 
 I'm a software developer and infrastructure engineer, I like my philosophy **UNIX** and my programming **Functional**.
 
-
 --------
 
-## <img align="center" width=50px src="./assets/chat.gif"> My online presence <img align="center" src="./assets/linux.gif" height="50px" />
+## <img align="center" width=50px src="./assets/chat.gif"> My Online Presence <img align="center" src="./assets/linux.gif" height="50px" />
 
 [![My Blog][blog]](https://mtrsk.github.io)
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/marcos-schonfinkel)
@@ -40,7 +39,7 @@ My favorite text editor:
 
 --------
 
-### Useless stats
+### Useless Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
