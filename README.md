@@ -37,9 +37,6 @@ My favorite text editor:
 
 #### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS]()!
 
-<br/>
-<br/>
-
 ### Useless stats
 
 <p align="center">
