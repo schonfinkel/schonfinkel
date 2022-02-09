@@ -2,12 +2,11 @@
 
 I'm a software developer and infrastructure engineer, I like my philosophy UNIX and my programming Functional.
 
-## My online presence
+## <img align="center" width=50px src="./assets/chat.gif"> My online presence
 
 [![My Blog][blog]](https://mtrsk.github.io)
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/marcos-schonfinkel)
 [![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/aristu?tab=profile)
-<p align="center"> <img width=90px src="./assets/chat.gif"> </p> Reach me out in virtually, if it's not possible.
 
 <img src="./assets/dorothy.gif"
      style="margin-top:20px;"
@@ -34,7 +33,7 @@ My favorite text editor:
 * NeoVim (although I'm slowy being converted to Emacs + ORG)
 ```
 
-#### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS]()!
+### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS]()!
 
 ### Useless stats
 
