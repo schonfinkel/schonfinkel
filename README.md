@@ -2,6 +2,8 @@
 
 I'm a software developer and infrastructure engineer, I like my philosophy UNIX and my programming Functional.
 
+--------
+
 ## <img align="center" width=50px src="./assets/chat.gif"> My online presence
 
 [![My Blog][blog]](https://mtrsk.github.io)
@@ -34,6 +36,8 @@ My favorite text editor:
 ```
 
 ### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS]()!
+
+--------
 
 ### Useless stats
 
