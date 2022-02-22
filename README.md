@@ -37,13 +37,13 @@ My favorite text editor:
 
 --------
 
-<center>
-  <table>
+<table>
+  <tbody>
     <tr>
-      <td>
+      <td align="center">
         <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width=50px src="./assets/wizard.gif"> 
       </td>
-      <td>
+      <td align="center">
         <p align="center">
           Useless stats
         </p>
@@ -53,7 +53,7 @@ My favorite text editor:
       </td>
     </tr>
   </table>
-</center>
+</tbody>
 
 [blog]: https://img.shields.io/badge/Blog-B1361E?style=for-the-badge&logo=linux&logoColor=white
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
