@@ -35,17 +35,25 @@ My favorite text editor:
 * NeoVim (although I'm slowy being converted to Emacs + ORG)
 ```
 
-### <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use [NixOS](https://nixos.org/)! <img align="center" width=50px src="./assets/wizard.gif"> 
-
 --------
 
-### Useless Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrsk&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=35&langs_count=15&hide=jupyter%20notebook" alt="top languages"/>
-  </a>
-</p>
+<center>
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width=50px src="./assets/wizard.gif"> 
+      </td>
+      <td>
+        <p align="center">
+          Useless stats
+        </p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrsk&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=35&langs_count=15&hide=jupyter%20notebook" alt="top languages"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</center>
 
 [blog]: https://img.shields.io/badge/Blog-B1361E?style=for-the-badge&logo=linux&logoColor=white
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
