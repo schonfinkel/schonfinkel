@@ -9,14 +9,14 @@ I'm a software developer and infrastructure engineer, I like my philosophy **UNI
 [![My Blog][blog]](https://mtrsk.github.io)
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/marcos-schonfinkel)
 [![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/aristu?tab=profile)
-<img align="center" width=50px src="./assets/chat.gif"> 
+<img align="center" width="50" heigth="50" src="./assets/chat.gif"> 
 
 <table>
   <tbody>
     <tr>
       <td align="center">
-        <img align="center" src="./assets/nixos.gif" height="25px" width="25px" /> 
-        Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width=50px width="50px" src="./assets/wizard.gif"> 
+        <img align="center" src="./assets/nixos.gif" height="25" width="25" /> 
+        Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width="50" width="50" src="./assets/wizard.gif"> 
       </td>
       <td align="center">
         <p align="center">
