@@ -4,17 +4,19 @@ I'm a software developer and infrastructure engineer, I like my philosophy **UNI
 
 -------
 
-## <img align="center" width=50px src="./assets/chat.gif"> My Online Presence <img align="center" src="./assets/linux.gif" height="50px" />
+## My Online Presence <img align="center" src="./assets/linux.gif" height="50px" />
 
 [![My Blog][blog]](https://mtrsk.github.io)
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/marcos-schonfinkel)
 [![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/aristu?tab=profile)
+<img align="center" width=50px src="./assets/chat.gif"> 
 
 <table>
   <tbody>
     <tr>
       <td align="center">
-        <img align="center" src="./assets/nixos.gif" height="25px" /> Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width=50px src="./assets/wizard.gif"> 
+        <img align="center" src="./assets/nixos.gif" height="25px" width="25px" /> 
+        Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width=50px width="50px" src="./assets/wizard.gif"> 
       </td>
       <td align="center">
         <p align="center">
