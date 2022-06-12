@@ -1,15 +1,14 @@
-# <img align="center" src="./assets/globe.gif" height="45px" /> 你好, digital citizen! Welcome to Cyberspace. <img align="center" src="./assets/computer.gif" height="45px" /> 
+# <img align="center" src="./assets/globe.gif" height="45" /> 你好, digital citizen! Welcome to Cyberspace. <img align="center" src="./assets/computer.gif" height="45" /> 
 
 I'm a software developer and infrastructure engineer, I like my philosophy **UNIX** and my programming **Functional**.
 
 -------
 
-## My Online Presence <img align="center" src="./assets/linux.gif" height="50px" />
+## <img align="center" width="50" heigth="50" src="./assets/chat.gif"> My Online Presence <img align="center" src="./assets/linux.gif" height="50" />
 
 [![My Blog][blog]](https://mtrsk.github.io)
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/marcos-schonfinkel)
 [![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/aristu?tab=profile)
-<img align="center" width="50" heigth="50" src="./assets/chat.gif"> 
 
 <table>
   <tbody>
