@@ -10,24 +10,32 @@ I'm a software developer and infrastructure engineer, I like my philosophy **~UN
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/marcos-schonfinkel)
 [![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/aristu?tab=profile)
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img align="center" src="./assets/nixos.gif" height="25" width="25" /> 
-        Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width="50" width="50" src="./assets/wizard.gif"> 
-      </td>
-      <td align="center">
-        <p align="center">
-          Useless stats
-        </p>
-        <a href="https://github.com/mtrsk">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrsk&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=35&langs_count=15&hide=jupyter%20notebook" alt="top languages"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</tbody>
+### My toolbox
+
+```fsharp
+type Language = Coq | FSharp | Haskell | Nix | Python | Rust | Shell
+type Tooling = Docker | Git
+type Infra = Kubernetes | Linux | Nomad | Terraform
+type CloudProvider = AWS | Azure | GCP | OnPremise
+
+type Experience = 
+  { Languages: Language list
+    Tooling: Tooling list
+    Infrastructure: Infra list
+    CloudProviders: CloudProvider list }
+
+let workedWith =
+  { Languages = [ FSharp; Nix; Python; Shell ]
+    Tooling = [ Docker; Git ]
+    Infra = [ Kubernetes; Linux; Terraform ]
+    CloudProviders = [ AWS; Azure ] }
+``` 
+
+<div align="center">
+  <img align="center" src="./assets/nixos.gif" height="25" width="25" /> 
+  Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width="50" width="50" src="./assets/wizard.gif"> 
+</div><br>
+
 
 [blog]: https://img.shields.io/badge/Blog-B1361E?style=for-the-badge&logo=linux&logoColor=white
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
