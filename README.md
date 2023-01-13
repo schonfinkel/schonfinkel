@@ -13,8 +13,8 @@ I'm a software developer and infrastructure engineer, I like my philosophy **UNI
 ### My toolbox
 
 ```fsharp
-type Language = Coq | FSharp | Haskell | Nix | Python | Rust | Shell
-type Tooling = Docker | Git
+type Language = Coq | FSharp | Haskell | Nix | Python | Rust | Shell | SQL
+type Tooling = Docker | Git | Kafka
 type Infra = Kubernetes | Linux | Nomad | Terraform
 type CloudProvider = AWS | Azure | GCP | OnPremise
 
