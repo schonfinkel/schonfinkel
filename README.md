@@ -14,26 +14,26 @@ I'm a software developer and infrastructure engineer, I like my philosophy **UNI
 
 ```fsharp
 type Language = Coq | FSharp | Haskell | Nix | Python | Rust | Shell | SQL
-type Tooling = Docker | Git | Kafka
+type Tooling = Docker | Git | Kafka | Make
 type Infra = Kubernetes | Linux | Nomad | Terraform
 type CloudProvider = AWS | Azure | GCP | OnPremise
 
-type Experience = 
+type Experience =
   { Languages: Language list
     Tooling: Tooling list
     Infrastructure: Infra list
     CloudProviders: CloudProvider list }
 
 let workedWith =
-  { Languages = [ FSharp; Nix; Python; Shell ]
-    Tooling = [ Docker; Git ]
+  { Languages = [ FSharp; Nix; Python; Shell; SQL ]
+    Tooling = [ Docker; Git; Kafka; Make ]
     Infra = [ Kubernetes; Linux; Terraform ]
     CloudProviders = [ AWS; Azure ] }
-``` 
+```
 
 <div align="center">
-  <img align="center" src="./assets/nixos.gif" height="25" width="25" /> 
-  Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width="50" width="50" src="./assets/wizard.gif"> 
+  <img align="center" src="./assets/nixos.gif" height="25" width="25" />
+  Btw, I use <a href=https://nixos.org>NixOS</a>! <img align="center" width="50" width="50" src="./assets/wizard.gif">
 </div><br>
 
 
