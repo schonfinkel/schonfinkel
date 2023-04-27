@@ -1,6 +1,6 @@
 # <img align="center" src="./assets/globe.gif" height="45" /> 你好, digital citizen! Welcome to Cyberspace. <img align="center" src="./assets/computer.gif" height="45" /> 
 
-I'm a software developer and infrastructure engineer, I like my philosophy ~~**UNIX**~~ **Emacs** and my programming **Functional**.
+I'm a software developer and infrastructure engineer, I like my philosophy ~~**UNIX**~~ **Nix** and my programming **Functional**.
 
 -------
 
