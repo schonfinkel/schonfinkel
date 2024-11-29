@@ -6,9 +6,9 @@ I'm a software developer and infrastructure engineer, I like my philosophy ~~**U
 
 ## <img align="center" width="50" heigth="50" src="./assets/chat.gif"> My Online Presence <img align="center" src="./assets/linux.gif" height="50" />
 
-[![My Blog][blog]](https://mtrsk.github.io)
+[![My Blog][blog]](https://schonfinkel.github.io)
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/schonfinkel)
-[![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/aristu?tab=profile)
+[![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/schonfinkel?tab=profile)
 
 ### My toolbox
 
