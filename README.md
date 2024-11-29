@@ -13,7 +13,7 @@ I'm a software developer and infrastructure engineer, I like my philosophy ~~**U
 ### My toolbox
 
 ```fsharp
-type Language = Coq | FSharp | Haskell | Nix | Python | Rust | Shell | SQL
+type Language = Coq | Erlang | FSharp | Haskell | Nix | Python | Rust | Shell | SQL
 type Tooling = Docker | Git | Kafka | Make
 type Infra = Kubernetes | Linux | Nomad | Terraform
 type CloudProvider = AWS | Azure | GCP | OnPremise
@@ -25,7 +25,7 @@ type Experience =
     CloudProviders: CloudProvider list }
 
 let workedWith =
-  { Languages = [ FSharp; Nix; Python; Shell; SQL ]
+  { Languages = [ Erlang; FSharp; Nix; Python; Shell; SQL ]
     Tooling = [ Docker; Git; Kafka; Make ]
     Infra = [ Kubernetes; Linux; Terraform ]
     CloudProviders = [ AWS; Azure ] }
