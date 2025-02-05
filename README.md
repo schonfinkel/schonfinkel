@@ -10,25 +10,26 @@ I'm a software developer and infrastructure engineer, I like my philosophy ~~**U
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/schonfinkel)
 [![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/schonfinkel?tab=profile)
 
-### My toolbox
+### Summary
 
-```fsharp
-type Language = Coq | Erlang | FSharp | Haskell | Nix | Python | Rust | Shell | SQL
-type Tooling = Docker | Git | Kafka | Make
-type Infra = Kubernetes | Linux | Nomad | Terraform
-type CloudProvider = AWS | Azure | GCP | OnPremise
+```erlang
+-type language() ::
+    coq | elixir | erlang | fsharp | gleam | haskell | nix | python | rust | shell | sql.
+-type infra() :: docker | git | kubernetes | make | pulumi | terraform | vault.
+-type database() :: postgresql | sqlite.
+-type system() :: nixos.
+-type interests() ::
+    algebra | emacs | functional_programming | logic | relational_databases | linux.
+-type role() :: backend | devops | infra.
 
-type Experience =
-  { Languages: Language list
-    Tooling: Tooling list
-    Infrastructure: Infra list
-    CloudProviders: CloudProvider list }
-
-let workedWith =
-  { Languages = [ Erlang; FSharp; Nix; Python; Shell; SQL ]
-    Tooling = [ Docker; Git; Kafka; Make ]
-    Infra = [ Kubernetes; Linux; Terraform ]
-    CloudProviders = [ AWS; Azure ] }
+-record(description,
+        {name = "Marcos Benevides" :: string(),
+         title :: [role],
+         city = "São Luís/MA" :: string(),
+         country = "🇧🇷",
+         interests :: [interests()],
+         tools :: [database() | language() | infra()],
+         system :: [system()]}).
 ```
 
 <div align="center">
