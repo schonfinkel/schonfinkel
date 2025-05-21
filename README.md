@@ -8,6 +8,7 @@ I'm a software developer and infrastructure engineer, I like my philosophy ~~**U
 
 [![My Blog][blog]](https://schonfinkel.github.io)
 [![My Linkedin profile][linkedin]](https://linkedin.com/in/schonfinkel)
+[![My Hacker News profile][hackernews]](https://news.ycombinator.com/user?id=schonfinkel)
 [![My SE profile][stackexchange]](https://stackoverflow.com/users/4614840/schonfinkel?tab=profile)
 
 ### Summary
@@ -46,4 +47,5 @@ I'm a software developer and infrastructure engineer, I like my philosophy ~~**U
 
 [blog]: https://img.shields.io/badge/Blog-B1361E?style=for-the-badge&logo=linux&logoColor=white
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[hackernews]: https://img.shields.io/badge/hackernews-orange?style=for-the-badge&logo=haskell
 [stackexchange]: https://img.shields.io/badge/stackexchange-0A0A0A?style=for-the-badge&logo=stackexchange&logoColor=white
