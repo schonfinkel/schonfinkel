@@ -15,7 +15,7 @@ I'm a software developer and infrastructure engineer, I like my philosophy ~~**U
 
 ```erlang
 -type language() ::
-    erlang | fsharp | gleam | haskell | nix | python | rust | shell | sql.
+    erlang | fsharp | gleam | haskell | nix | ocaml | python | rust | shell | sql.
 -type infra() :: docker | git | kubernetes | make | pulumi | terraform | vault.
 -type database() :: postgresql | sqlite | sqlserver.
 -type system() :: nixos.
@@ -32,7 +32,6 @@ I'm a software developer and infrastructure engineer, I like my philosophy ~~**U
 -record(description,
         {name = "Marcos Benevides" :: string(),
          title :: [role(), ...],
-         city = "São Luís/MA" :: string(),
          country = "🇧🇷",
          interests :: [interest(), ...],
          tools :: [database() | language() | infra(), ...],
